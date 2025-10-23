@@ -11,7 +11,7 @@ Sou um jovem aprendiz — ou melhor, um **padawan da programação** — sempre 
 ---
 
 ## 🔧 Tecnologias que estou explorando:
-- ☕ Java (JOptionPane, lógica de programação, POO)
+- ☕ Java ( lógica de programação POO)
 - 🐍 Python (scripts, automações)
 - 🎮 GameDev (lógica de jogos, narrativas interativas)
 
