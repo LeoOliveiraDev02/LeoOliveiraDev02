@@ -1,6 +1,6 @@
 <h1 align="center">Leonardo Oliveira</h1>
 <p align="center">
-  Estudante de Sistemas de Informação · Desenvolvedor back-end em formação · 3D na web e acessibilidade
+  Estudante de Sistemas de Informação · Desenvolvedor back-end em formação
 </p>
 
 <p align="center">
@@ -14,19 +14,7 @@
 
 Sou estudante do Bacharelado em **Sistemas de Informação** no **Instituto Federal Baiano, Campus Itapetinga** (2024–2028). Meu foco é o **back-end**: lógica e orientação a objetos com Java, automações com Python e modelagem de banco de dados com SQL.
 
-Também gosto de levar projetos para o lado visual e interativo, com **3D no navegador** e **jogos**, sempre pensando em **acessibilidade**.
-
-## Projeto em destaque
-
-### Monta PC em Libras
-Simulador 3D que ensina a montar um computador passo a passo, com um intérprete de **Libras** na tela para pessoas surdas.
-
-- Placa-mãe, processador, memória, SSD, air cooler e water cooler convertidos de **modelos CAD reais** (IGES/STEP → glTF), em escala real.
-- Mais de 50 pontos clicáveis que explicam o que é cada conector, slot e componente, e com o que ele se conecta.
-- Montagem guiada com validação de ordem e de encaixe, controle por mouse, teclado ou toque.
-- **Stack:** JavaScript, Three.js, Python (OpenCascade, trimesh) para converter os modelos.
-
-> Repositório privado. Demonstração disponível sob pedido.
+Estou sempre estudando e praticando com projetos pessoais e acadêmicos para evoluir como desenvolvedor.
 
 ## Tecnologias
 
@@ -38,9 +26,8 @@ Simulador 3D que ensina a montar um computador passo a passo, com um intérprete
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Ferramentas e bibliotecas**
+**Ferramentas**
 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
